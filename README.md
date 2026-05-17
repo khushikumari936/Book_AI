@@ -4,3 +4,4 @@ Developed a full-stack AI-powered book insight platform using Django REST Framew
 ![UI](assets/Screenshot_17-4-2026_232419_.jpeg)
 ![UI](assets/Screenshot_17-4-2026_232512_127.0.0.1.jpeg)
 ![UI](assets/Screenshot_17-4-2026_232531_127.0.0.1.jpeg)
+UI/UX
